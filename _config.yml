@@ -1,9 +1,10 @@
 theme: jekyll-theme-minimal
-title: GitHub pages template
-description: A simple template based on minimal jekyll theme
-show_downloads: True
+title: atejeda.github.io
+description: notes and projects
+show_downloads: False
+
 navigation:
   - title: Home
     url: /
-  - title: Setup
-    url: setup
+  - title: Google Cloud Platform
+    url: GoogleCloud
